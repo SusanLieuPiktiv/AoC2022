@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.day_8.Day8Test" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-12-08T13:57:18" hostname="Susans-Air" time="0.436">
+  <properties/>
+  <testcase name="should_not_find_middle_in_small_forest()" classname="org.example.day_8.Day8Test" time="0.428"/>
+  <testcase name="should_find_all_visible_in_small_forest()" classname="org.example.day_8.Day8Test" time="0.002"/>
+  <testcase name="should_parse_input_to_grid()" classname="org.example.day_8.Day8Test" time="0.003"/>
+  <testcase name="should_solve_a()" classname="org.example.day_8.Day8Test" time="0.001"/>
+  <testcase name="should_solve_b()" classname="org.example.day_8.Day8Test" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
